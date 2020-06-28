@@ -30,4 +30,3 @@ Definimos dos vectores *X* y *Y* con los valores dados.
 ## Pregunta 1.
 
 
-$$|\vec{A}|=\sqrt{A_x^2 + A_y^2 + A_z^2}.$$
